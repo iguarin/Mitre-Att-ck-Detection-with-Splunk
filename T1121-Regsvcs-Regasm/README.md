@@ -22,4 +22,4 @@ del key.snk```
 
 ## Detection -- Visibility -- Filter/ Correlation Rule
 
-**Filter:** ```System.EnterpriseServices.dll key.snk OR regsvcs```
+``` **Filter:** ```System.EnterpriseServices.dll key.snk OR regsvcs```
